@@ -1,0 +1,11 @@
+{
+  "name": "aleja",
+  "version": "1.0.0",
+  "description": "one breve description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcela susatama",
+  "license": "ISC"
+}
